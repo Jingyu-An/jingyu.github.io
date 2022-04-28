@@ -64,6 +64,11 @@ img.MyPicture{
 }
 
 /* Index page setting*/
+table.index{
+    width: 80%;
+    margin: auto;
+}
+
 td.content{
     padding-left: 20px;
     padding-right: 50px;
@@ -78,7 +83,6 @@ p.content{
 
 /* Jingyu CV page Setting */
 td.main {
-    /*text-align: center;*/
     font-family: 'Courier New';
     font-size: 30px;
     padding-top: 50px;
