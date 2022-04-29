@@ -1,7 +1,8 @@
 /*body setting*/
 body.background {
-    background-image: url("../Images/white-texture.jpg");
-    background-attachment:fixed;
+    /*background-image: url("../Images/white-texture.jpg");*/
+    background-color: rgba(0, 0, 0, 0.5);
+    /*background-attachment:fixed;*/
 }
 
 /*menu Setting*/
